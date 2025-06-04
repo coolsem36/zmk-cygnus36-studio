@@ -5,7 +5,7 @@
  */
 
 #include <dt-bindings/zmk/matrix_transform.h>
-#include <cygnus-36-layouts.dtsi>
+#include "cygnus-layouts.dtsi"
 
 / {
 	chosen {

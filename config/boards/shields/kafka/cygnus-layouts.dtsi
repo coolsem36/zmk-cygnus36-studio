@@ -4,8 +4,6 @@
     cygnus_layout: cygnus_layout {
         compatible = "zmk,physical-layout";
         display-name = "Cygnus";
-
-        kscan = <&kscan0>;
         transform = <&matrix_transform>;
 
         keys  //                     w   h    x    y     rot    rx    ry
